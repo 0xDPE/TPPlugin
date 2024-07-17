@@ -1,0 +1,10 @@
+name: TpPlugin
+version: '1.0'
+main: me.brosef.tpPlugin.TpPlugin
+api-version: '1.20'
+
+
+commands:
+  tp:
+    description: "Command that teleports player to set location"
+    usage: "/command <target location X> <targetLocation Y> <target location Z>"
