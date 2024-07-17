@@ -7,4 +7,4 @@ Created more for personal learning then to be used
 
 ## Features 
 
-teleport command that takes x,y,z coords as argumetns
+teleport command that takes x,y,z coords as arguments
